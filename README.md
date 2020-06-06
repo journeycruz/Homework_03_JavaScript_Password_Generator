@@ -1,4 +1,4 @@
-# Homework_03_JavaScript_Password_Generator
+# Password_Generator
 
 In this assignment I created a password generator that will ask the user to confirm what criteria to use in their password and generate one based on the information they provide. 
 
